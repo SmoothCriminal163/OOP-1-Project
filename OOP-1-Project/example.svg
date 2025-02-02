@@ -1,0 +1,27 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg>
+  <!-- Примери за няколко правоъгълника -->
+  <rect x="30.00"  y="30.00"  width="120.00" height="60.00"  fill="blue"   />
+  <rect x="200.00" y="50.00"  width="180.00" height="80.00"  fill="yellow" />
+  <rect x="450.00" y="40.00"  width="120.00" height="50.00"  fill="orange" />
+  <rect x="650.00" y="100.00" width="200.00" height="100.00" fill="green"  />
+  <rect x="60.00"  y="200.00" width="220.00" height="80.00"  fill="pink"   />
+  <rect x="320.00" y="220.00" width="140.00" height="100.00" fill="silver" />
+  <rect x="490.00" y="250.00" width="180.00" height="120.00" fill="brown"  />
+  <rect x="710.00" y="250.00" width="220.00" height="90.00"  fill="#aaffaa"/>
+
+  <!-- Примери за няколко окръжности -->
+  <circle cx="150.00" cy="400.00" r="50.00"  fill="red"    />
+  <circle cx="350.00" cy="400.00" r="40.00"  fill="gold"   />
+  <circle cx="520.00" cy="420.00" r="60.00"  fill="blue"   />
+  <circle cx="700.00" cy="420.00" r="30.00"  fill="violet" />
+  <circle cx="850.00" cy="380.00" r="70.00"  fill="#ffcccc"/>
+
+  <!-- Примери за няколко линии -->
+  <line x1="50.00"  y1="550.00"  x2="200.00" y2="600.00" stroke="black" stroke-width="2.00" />
+  <line x1="210.00" y1="580.00"  x2="380.00" y2="540.00" stroke="red"   stroke-width="3.00" />
+  <line x1="400.00" y1="600.00"  x2="600.00" y2="550.00" stroke="blue"  stroke-width="2.50" />
+  <line x1="620.00" y1="580.00"  x2="750.00" y2="620.00" stroke="green" stroke-width="4.00" />
+  <line x1="800.00" y1="530.00"  x2="900.00" y2="590.00" stroke="purple" stroke-width="5.00"/>
+</svg>
